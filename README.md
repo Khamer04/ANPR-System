@@ -13,8 +13,8 @@ Automatic Number Plate Recognition (ANPR) Project using Python, OpenCV, and Easy
 3. Install requirements:
 
 pip install -r requirements.txt
-4. Run Streamlit app:
 
+4. Run Streamlit app:
 streamlit run lnpr_streamlit.py
 
 ## Files
