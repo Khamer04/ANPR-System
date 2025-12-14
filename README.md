@@ -5,7 +5,7 @@ Automatic Number Plate Recognition (ANPR) Project using Python, OpenCV, and Easy
 ## Features
 - Detect license plates from images or video.
 - Check against a database of stolen vehicles.
-- Alerts via Streamlit interface (and optionally SMS using Twilio).
+- Alerts via Streamlit interface .
 
 ## Setup
 1. Clone the repository
